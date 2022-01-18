@@ -1,0 +1,11 @@
+.vpu {
+    height: 50vh;
+    width: 50vw;
+    background: red;
+}
+
+.percent {
+    height: 50pc;
+    width: 100pc;
+    background: blue;
+}

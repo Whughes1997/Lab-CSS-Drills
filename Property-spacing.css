@@ -1,0 +1,30 @@
+body{
+    font-family: 'lato', sans-serif;
+    margin: 0;
+   
+
+}
+
+form {
+    padding: 1em;
+    margin: 0 auto;
+    width: 150px;
+    border: 3px solid black;
+    box-shadow:  7px 13px 30px -4px rgba(0, 0, 0, 75);
+    background: url('./Pretty.jpeg');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+input, label {
+    display: block;
+}
