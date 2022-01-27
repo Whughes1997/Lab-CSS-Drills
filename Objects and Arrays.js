@@ -8,4 +8,4 @@ var friend = {
     }
 };
 
-console.log(friend.address.city);
+console.log(friend.address.state);
